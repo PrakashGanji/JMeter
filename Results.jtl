@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1649578949944,1339,/login-23,200,OK,Thread Group 1-1,text,true,,3212,461,1,1,https://the-internet.herokuapp.com/login,1339,0,1059
+1649578951297,548,/authenticate-41,200,OK,Thread Group 1-1,text,true,,3844,2433,1,1,https://the-internet.herokuapp.com/secure,292,0,0
+1649578951297,292,/authenticate-41-0,303,See Other,Thread Group 1-1,text,true,,994,1204,1,1,https://the-internet.herokuapp.com/authenticate,292,0,0
+1649578951591,254,/authenticate-41-1,200,OK,Thread Group 1-1,text,true,,2850,1229,1,1,https://the-internet.herokuapp.com/secure,253,0,0
+1649578951846,524,/logout-46,200,OK,Thread Group 1-1,text,true,,4356,2184,1,1,https://the-internet.herokuapp.com/login,253,0,0
+1649578951846,253,/logout-46-0,302,Found,Thread Group 1-1,text,true,,961,1076,1,1,https://the-internet.herokuapp.com/logout,253,0,0
+1649578952100,270,/logout-46-1,200,OK,Thread Group 1-1,text,true,,3395,1108,1,1,https://the-internet.herokuapp.com/login,270,0,0
